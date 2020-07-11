@@ -7,6 +7,9 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tadeutupinamba/)](https://www.linkedin.com/in/tadeutupinamba/)
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tupizz&show_icons=true&hide_border=true" alt="Tadeu's Github Stats">
+
+
 ```javascript
 const tupizz = {
   code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Ruby', 'Python', 'Java'],

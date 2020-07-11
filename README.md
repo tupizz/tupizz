@@ -1,16 +1,16 @@
-### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="230">
+<p><em>Software Enginner at Kovi</br></em></p>
 
-<!--
-**tupizz/tupizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter: iamtupiz](https://img.shields.io/twitter/follow/iamtupiz?style=social)](https://twitter.com/iamtupiz)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-tadeutupinamba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tadeutupinamba/)](https://www.linkedin.com/in/tadeutupinamba/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```javascript
+const tupizz = {
+  code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Ruby', 'Python', 'Java'],
+  favoriteLanguage: ['Python', 'Javascript'],
+  tools: ['React', 'Redux', 'Node', 'Storybook', 'Styled-Components', 'Jest', 'Docker', 'GraphQL'],
+  architecture: ["microservices", "event-driven", "design system pattern"]
+}
+```

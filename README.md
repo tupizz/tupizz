@@ -15,6 +15,6 @@ const tupizz = {
   code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Ruby', 'Python', 'Java'],
   favoriteLanguage: ['Python', 'Javascript'],
   tools: ['React', 'Redux', 'Node', 'Storybook', 'Styled-Components', 'Jest', 'Docker', 'GraphQL'],
-  architecture: ["microservices", "event-driven", "design system pattern"]
+  architecture: ['microservices', 'event-driven', 'design system pattern']
 }
 ```

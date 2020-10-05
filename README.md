@@ -3,6 +3,11 @@
 <img align='right' src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="230">
 <p><em>Software Enginner at Kovi</br></em></p>
 
+- 🔭 Working as Software Engineer at Kobi (BR)
+- 🌱 I’m currently learning and creating some personal projects with computer vision algorithms
+- 🤔 I’m looking for different perspectives (Data-Science and Frontend tips are super welcome)
+- 😄 Pronouns: he/him
+
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/iamtupiz/)](https://twitter.com/iamtupiz/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tadeutupinamba/)](https://www.linkedin.com/in/tadeutupinamba/)
 

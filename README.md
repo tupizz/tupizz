@@ -6,12 +6,6 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/iamtupiz/)](https://twitter.com/iamtupiz/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tadeutupinamba/)](https://www.linkedin.com/in/tadeutupinamba/)
 
-- 🔭 Working as Software Engineer at Kobi (BR)
-- 🌱 I’m currently learning and creating some personal projects with computer vision algorithms
-- 🤔 I’m looking for different perspectives (Data-Science and Frontend tips are super welcome)
-- 😄 Pronouns: he/him
-
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tupizz&theme=vue&show_icons=true&hide_border=true" alt="Tadeu's Github Stats">
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=00C756)

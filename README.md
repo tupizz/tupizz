@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="230">
 <p><em>Software Enginner at Kovi</br></em></p>
 
-![](https://komarev.com/ghpvc/?username=tupizz&color=green)
+![](https://komarev.com/ghpvc/?username=tupizz&color=brightgreen)
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/iamtupiz/)](https://twitter.com/iamtupiz/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tadeutupinamba/)](https://www.linkedin.com/in/tadeutupinamba/)

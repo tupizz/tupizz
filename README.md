@@ -20,6 +20,6 @@
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=00C756)
 <br>
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=00C756)
-![golang](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=go&logoColor=white&labelColor=00C756)
+![golang](https://img.shields.io/badge/-golang-grey?style=for-the-badge&logo=go&logoColor=white&labelColor=00C756)
 
 

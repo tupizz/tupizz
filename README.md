@@ -9,7 +9,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tadeutupinamba/)](https://www.linkedin.com/in/tadeutupinamba/)
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=tupizz&theme=vue&show_icons=true&hide_border=true" alt="Tadeu's Github Stats"> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tupizz)](https://github.com/anuraghazra/github-readme-stats)
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=00C756)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=00C756)

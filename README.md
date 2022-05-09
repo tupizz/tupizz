@@ -1,7 +1,7 @@
 # Tadeu Tupinambá 👨‍💻
 
 <img align='right' src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="230">
-<p><em>Software Enginner at Insider, Inc.</br></em></p>
+<p><em>Software Enginner</br></em></p>
 
 ![](https://komarev.com/ghpvc/?username=tupizz&color=brightgreen)
 

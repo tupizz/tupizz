@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=tupizz&color=brightgreen)
 
-<p><em>Software Enginner</br></em></p>
+<p><em>Software Enginner (7y+ experience on Node.js using Javascript, Typescript)</em></p>
 
 - 🔭 I’m currently working as a Full stack Software Engineer, solving problems around the world through technlogy
 - 🏫 Bachelor computer scientist in one of the greatest and most important colleges in Brazil (UNESP)

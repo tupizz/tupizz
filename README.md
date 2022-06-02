@@ -7,7 +7,11 @@
 - 🔭 I’m currently working as a Full stack Software Engineer, solving problems around the world through technlogy
 - 🌱 I’m currently learning and practicing: Go, Rust, Machine Learning topics
 - 😄 Pronouns: He / Him
-- ⚡ Hobbies: Crossfit 🏋🏻‍♀️, reading 📚, swimming 🏊🏻‍♂️, learning new things 🧠
+- ⚡ Hobbies: 
+  - Crossfit 🏋🏻‍♀️
+  - Reading 📚
+  - Swimming 🏊🏻‍♂️
+  - Learning new things 🧠
 
 ![](https://komarev.com/ghpvc/?username=tupizz&color=brightgreen)
 

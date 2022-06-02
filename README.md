@@ -1,7 +1,7 @@
 # Tadeu Tupinambá 👨‍💻
 
+![](https://komarev.com/ghpvc/?username=tupizz&color=brightgreen)
 
-<!-- <img align='right' src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="230"> -->
 <p><em>Software Enginner</br></em></p>
 
 - 🔭 I’m currently working as a Full stack Software Engineer, solving problems around the world through technlogy
@@ -12,8 +12,6 @@
   - Reading 📚
   - Swimming 🏊🏻‍♂️
   - Learning new things 🧠
-
-![](https://komarev.com/ghpvc/?username=tupizz&color=brightgreen)
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/iamtupiz/)](https://twitter.com/iamtupiz/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tadeutupinamba/)](https://www.linkedin.com/in/tadeutupinamba/)
@@ -54,6 +52,7 @@
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=00C756)
 ![golang](https://img.shields.io/badge/-golang-grey?style=for-the-badge&logo=go&logoColor=white&labelColor=00C756)
  -->
+#### 💻 Programming metrics <br />
 
 <table>
  <tr valign="top">

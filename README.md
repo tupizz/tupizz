@@ -1,5 +1,6 @@
 # Tadeu Tupinambá 👨‍💻
 
+
 <img align='right' src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="230">
 <p><em>Software Enginner</br></em></p>
 
@@ -11,17 +12,18 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tupizz&theme=vue&show_icons=true&hide_border=true" alt="Tadeu's Github Stats">
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tupizz)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=00C756)
+<!-- ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=00C756)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=00C756)
 ![TypeScript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=00C756)
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=00C756)
-<br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=00C756) -->
+<!-- <br>
 ![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=00C756)
 ![java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=00C756)
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=00C756)
 <br>
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=00C756)
 ![golang](https://img.shields.io/badge/-golang-grey?style=for-the-badge&logo=go&logoColor=white&labelColor=00C756)
-
+ -->
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 

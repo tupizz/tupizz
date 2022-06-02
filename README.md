@@ -5,7 +5,8 @@
 <p><em>Software Enginner</br></em></p>
 
 - 🔭 I’m currently working as a Full stack Software Engineer, solving problems around the world through technlogy
-- 🌱 I’m currently learning and practicing: Go, Rust, Machine Learning topics
+- 🏫 Bachelor computer scientist in one of the greatest and most important colleges in Brazil (UNESP)
+- 🌱 I’m currently learning and practicing: Go, Rust, Kafka, always learning new things
 - 😄 Pronouns: He / Him
 - ⚡ Hobbies: 
   - Crossfit 🏋🏻‍♀️

@@ -4,6 +4,11 @@
 <img align='right' src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="230">
 <p><em>Software Enginner</br></em></p>
 
+- 🔭 I’m currently working as a Full stack Software Engineer, solving problems around the world through technlogy
+- 🌱 I’m currently learning and practicing: Go, Rust, Machine Learning topics
+- 😄 Pronouns: He / Him
+- ⚡ Hobbies: Crossfit 🏋🏻‍♀️, reading 📚, swimming 🏊🏻‍♂️, learning new things 🧠
+
 ![](https://komarev.com/ghpvc/?username=tupizz&color=brightgreen)
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/iamtupiz/)](https://twitter.com/iamtupiz/)

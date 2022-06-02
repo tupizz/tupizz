@@ -1,4 +1,7 @@
 name: Full-year calendar
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
 uses: lowlighter/metrics@latest
 with:
   filename: metrics.plugin.isocalendar.fullyear.svg

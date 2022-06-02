@@ -7,6 +7,16 @@ on:
   # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
+  starred-topics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.icons.svg
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons  
   languages-stats:
     runs-on: ubuntu-latest
     steps:
@@ -28,6 +38,10 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+          plugin_languages_ignored: >-
+            php, html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot
+
   isometric-calendar:
     runs-on: ubuntu-latest
     permissions:

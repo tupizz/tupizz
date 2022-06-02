@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as a Full stack Software Engineer, solving problems around the world through technlogy
 - 🏫 Bachelor computer scientist in one of the greatest and most important colleges in Brazil (UNESP)
-- 🌱 I’m currently learning and practicing: Go, Rust, Kafka, always learning new things
+- 🌱 I’m currently learning and practicing: <i>Go, Rust, Kafka, always learning new things</i>
 - 😄 Pronouns: He / Him
 - ⚡ Hobbies: 
   - Crossfit 🏋🏻‍♀️

@@ -24,11 +24,10 @@
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=00C756)
 ![golang](https://img.shields.io/badge/-golang-grey?style=for-the-badge&logo=go&logoColor=white&labelColor=00C756)
  -->
-<img src="/github-metrics.svg" alt="Metrics"  width="50%" align="left" >
-<img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="50%" align="right">
-<br />
-<h1>Techs</h1>
-<img src="/metrics.plugin.languages.svg" alt="Metrics" width="100%">
-<img src="/metrics.plugin.topics.icons.svg" alt="Metrics" width="100%">
+<img src="/github-metrics.svg" alt="Metrics"  width="45%" align="left" >
+<img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="45%" align="right">
+
+<img src="/metrics.plugin.languages.svg" alt="Metrics" width="80%" align="center">
+<img src="/metrics.plugin.topics.icons.svg" alt="Metrics" width="80%" align="center">
 
 

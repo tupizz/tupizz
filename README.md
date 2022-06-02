@@ -64,6 +64,7 @@
   <td width="50%">
     <img src="/metrics.plugin.languages.svg"/>
     <img src="/metrics.plugin.topics.icons.svg"/>
+    <img src="/metrics.plugin.code.svg"/>
   </td>
  </tr>
 </table>

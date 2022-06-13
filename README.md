@@ -1,6 +1,8 @@
 # Tadeu Tupinambá 👨‍💻
 
 ![](https://komarev.com/ghpvc/?username=tupizz&color=brightgreen)
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/iamtupiz/)](https://twitter.com/iamtupiz/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tadeutupinamba/)](https://www.linkedin.com/in/tadeutupinamba/)
 
 <p><em>Software Enginner (7y+ experience on Node.js using Javascript, Typescript)</em></p>
 
@@ -14,8 +16,6 @@
   - Swimming 🏊🏻‍♂️
   - Learning new things 🧠
 
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/iamtupiz/)](https://twitter.com/iamtupiz/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tadeutupinamba/)](https://www.linkedin.com/in/tadeutupinamba/)
 
 ---
 

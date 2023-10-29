@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/iamtupiz/)](https://twitter.com/iamtupiz/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tadeutupinamba/)](https://www.linkedin.com/in/tadeutupinamba/)
 
-<p><em>Software Enginner (8y+ experience on Node.js using Javascript, Typescript, Java)</em></p>
+<p><em>Software Enginner (10+ years experience on Node.js using Javascript, Typescript, Java, HTML, CSS and using SQL/NoSQL Databases)</em></p>
 
 - 🔭 I’m currently working as a Full stack Software Engineer, solving problems around the world through technlogy
 - 🏫 Bachelor computer scientist in one of the greatest and most important colleges in Brazil (UNESP)
@@ -15,7 +15,6 @@
   - Reading 📚
   - Swimming 🏊🏻‍♂️
   - Learning new things 🧠
-
 
 ---
 

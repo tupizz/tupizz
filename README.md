@@ -7,7 +7,7 @@
 <p><em>Software Enginner (10+ years experience on Node.js using Javascript, Typescript, Java, HTML, CSS and using SQL/NoSQL Databases)</em></p>
 
 - 🔭 I’m currently working as a Full stack Software Engineer, solving problems around the world through technlogy
-- 🏫 Bachelor computer scientist in one of the greatest and most important colleges in Brazil (UNESP)
+- 🏫 Bachelor computer scientist in one of the greatest and most important colleges in Brazil ([UNESP](https://www2.unesp.br/))
 - 🧠 Master and specialization in (both **Data Analytics and Machine Learning** and **Software Architecture**) degree in the most well-known technology-focused university in Brazil [FIAP](https://www.fiap.com.br/)
 - 🌱 I’m currently learning and practicing: <i>Go, Rust, Apache Spark, ML in Python and always sharpening my skills</i>
 - 😄 Pronouns: He / Him
